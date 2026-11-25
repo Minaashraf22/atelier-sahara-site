@@ -16,6 +16,9 @@ npm run dev      # development
 npm run build    # production build in dist/
 ```
 
+## Demo video
+[docs/demo.mp4](docs/demo.mp4) (short screen recording of the main flows)
+
 ## Preview
 ![Desktop](docs/desktop.jpg)
 ![Lightbox](docs/lightbox.jpg)
