@@ -17,3 +17,5 @@ export const steps = [
   ['03', 'Develop', 'Plans, models and materials fixed with the engineers.'],
   ['04', 'Build', 'Supervision and handover with a maintenance guide.'],
 ]
+export const SECTIONS = ['work', 'services', 'process', 'contact']
+export const TYPES = ['All', ...new Set(projects.map(p => p.type))]
